@@ -3,7 +3,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!,  I'm Souhaila OUNAR </h2>
 </div>
 
-![coding](https://media.giphy.com/media/l4FGuhLj5Ql3Q3Qxa/giphy.gif)
+![coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tdTk3azk4cHV0dmx3cGR4NWlmaXcwdWExYXQ5NDR0NHhqMXE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 
 
 ## About Me 🚀
