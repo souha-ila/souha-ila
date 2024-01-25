@@ -2,26 +2,30 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
+# Hey there! 👋 I'm Souhaila OUNAR
 
-<div align="center" width="50">
+![coding](https://media.giphy.com/media/3oEduJVgRJOmaPQjEA/giphy.gif)
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+## About Me 🚀
 
-</div>
+I'm a passionate fullstack developer with a knack for crafting delightful web and mobile experiences. When I'm not coding, you can find me crocheting intricate designs or exploring new hiking trails.
 
-<div align="center">
+## Projects 🚀
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
+Check out some of my recent projects:
 
-<i>Happy Coding!</i> 😊
+- 🌐 [Portfolio Website](https://example.com/portfolio)
+- 🛒 [E-commerce App](https://example.com/ecommerce)
+- 📝 [Blogging Platform](https://example.com/blog)
 
-</div>
+## Let's Connect! 🌟
 
-<div align="center">
+Feel free to reach out to me via:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+- 📧 [Email](mailto:souhaila@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/souhaila-ounar)
+
+## Stay Awesome! ✨
+
 
 
