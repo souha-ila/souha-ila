@@ -1,10 +1,10 @@
-
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!,  I'm Souhaila OUNAR </h2>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! I'm Souhaila OUNAR </h2>
 </div>
 
-![coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tdTk3azk4cHV0dmx3cGR4NWlmaXcwdWExYXQ5NDR0NHhqMXE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47rvldtk120esvnut2zz8el5178lnl2ddg6i2at7gb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding">
+</div>
 
 ## About Me 🚀
 
@@ -18,6 +18,3 @@ Feel free to reach out to me via:
 - 💼 [LinkedIn](https://www.linkedin.com/in/souhaila-ounar-139031241/)
 
 ## Stay Awesome! ✨
-
-
-
