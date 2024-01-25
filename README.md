@@ -1,16 +1,16 @@
-### Hi there 👋
+# Bonjour, je suis Souhaila OUNAR 👋
 
-<!--
-**souha-ila/souha-ila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Développeuse Fullstack passionnée par la technologie et le crochet ! ✨
 
-Here are some ideas to get you started:
+![Avatar](https://example.com/avatar.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// Code magique pour créer une application web envoûtante !
+const createMagicApp = () => {
+  console.log("🧙‍♀️ Creating a magical web application... 🧙‍♂️");
+  // Imaginez ici votre code pour créer une application web fascinante !
+}
+
+// Appel de la fonction pour lancer le sort !
+createMagicApp();
+
